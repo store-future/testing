@@ -1,1 +1,2 @@
 1 - first content (checking how untracked file, staging file, one branch ahed work)
+2 - add first feature
